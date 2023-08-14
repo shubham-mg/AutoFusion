@@ -16,7 +16,7 @@ This is a web application built using Streamlit that offers an automated machine
 
 ## How to Use
 
-1. Open the [AutoML Web App](#) (provide link to the deployed app on Streamlit Sharing).
+1. Open the [AutoML Web App](https://autofusion.streamlit.app/) (provide link to the deployed app on Streamlit Sharing).
 
 2. On the sidebar, you'll find the navigation options: "Upload", "EDA", "Modelling", and "Download".
 
